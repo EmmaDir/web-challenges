@@ -1,0 +1,15 @@
+.card {
+  background-color: var(--card-bg);
+  color: var(--card-text);
+  border-radius: 1rem;
+  width: 350px;
+  height: 190px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.card__text {
+  font-weight: normal;
+  margin: 0;
+}
